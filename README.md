@@ -27,8 +27,8 @@ $ git clone https://github.com/yourusername/crime-analysis.git
 $ cd crime-analysis
 
 # Create a virtual environment (optional but recommended):
-# $ python3 -m venv env
-# $ source env/bin/activate   # On Windows: env\Scripts\activate
+$ python3 -m venv env
+$ source env/bin/activate   # On Windows: env\Scripts\activate
 
 # Install dependencies:
 $ pip install -r requirements.txt
