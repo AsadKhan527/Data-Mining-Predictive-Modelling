@@ -1,7 +1,7 @@
 
- =========================================
+
 # Crime Data Analysis & Predictive Modeling
- =========================================
+
 
 # 📌 Project Overview
  This project analyzes crime data in America, applies machine learning models,
